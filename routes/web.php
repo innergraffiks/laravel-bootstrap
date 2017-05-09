@@ -27,6 +27,14 @@ Route::get('/pages/album', function () {
     return view('pages/album');
 });
 
+Route::get('/pages/landing', function () {
+    return view('pages/landing');
+});
+
+Route::get('/pages/blog', function () {
+    return view('pages/blog');
+});
+
 Route::get('/pages/contact', function () {
     return view('pages/contact');
 });

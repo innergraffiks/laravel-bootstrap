@@ -17,13 +17,13 @@
   background-color: #777;
 
   &.first {
-    background-color: #455a64;
+    background-color: #f4645f;
   }
   &.second {
-    background-color: lighten(#455a64, 10);
+    background-color: #563d7c;
   }
   &.third {
-    background-color: darken(#455a64, 10);
+    background-color: #F44D27;
   }
 }
 .carousel-item > img {

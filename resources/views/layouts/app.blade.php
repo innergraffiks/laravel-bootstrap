@@ -53,6 +53,8 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <a class="dropdown-item" href="/pages/404">404</a>
               <a class="dropdown-item" href="/pages/album">Album</a>
+              <a class="dropdown-item" href="/pages/landing">Landing</a>
+              <a class="dropdown-item" href="/pages/blog">Blog</a>
               <a class="dropdown-item" href="/pages/contact">Contact</a>
             </div>
           </li>
